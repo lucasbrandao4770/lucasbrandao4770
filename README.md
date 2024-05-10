@@ -6,23 +6,22 @@
 
 - 👨‍💻 NLP Researcher and Developer
 
-<br><br>
+<br>
+## 🛠 &nbsp;Tech Stack
+
+<div align="center">
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode,md,anaconda,pytorch,sklearn,linux,docker,ros,stackoverflow" />
+</a>
+</div>
+
+<br>
 ## ⚙️ &nbsp;GitHub Analytics
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasbrandao4770&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbrandao4770&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<br><br>
-## 🛠 &nbsp;Tech Stack
-
-<div align="center">
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode,md,anaconda,pytorch,sklearn,linux,docker,ros,stackoverflow,flask" />
-</a>
-</div>
-
-<br><br>
-
+<br>
 ## :computer: Social Links
 
 <p align="left" style="background:yellow">
