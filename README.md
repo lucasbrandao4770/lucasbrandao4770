@@ -11,7 +11,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode,md,anaconda,pytorch,sklearn,linux,docker,ros,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=unity,python,c,cs,java,anaconda,pytorch,sklearn,docker" />
 </a>
 </div>
 
