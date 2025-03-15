@@ -1,10 +1,12 @@
 <h1 align="left">Hi There! I'm Lucas :)</h1>
 
-- 🧠 Senior Undergraduate Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
+- 🧠 B.Sc. in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
 
 - 🔥 Data Scientist
 
 - 👨‍💻 NLP Researcher and Developer
+
+- 🎮 Game Designer and Developer
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
