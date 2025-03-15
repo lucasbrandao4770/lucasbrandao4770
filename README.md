@@ -6,7 +6,7 @@
 
 - 👨‍💻 NLP Researcher and Developer
 
-- 🎮 Game Designer and Developer
+- 🎮 Game Designer and Developer / Gamification Specialist
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
